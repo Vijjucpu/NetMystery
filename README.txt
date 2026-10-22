@@ -135,7 +135,7 @@ The following checks can be performed:
 
 NetMystery makes basic network troubleshooting easier to understand through guided practice. It combines network problem scenarios, suggested diagnostic tools, simulated evidence, diagnosis feedback, and score tracking in one Java Swing application.
 
-## Project Authors
+## Project Author
 
 - **G. Vijayalaxmi** – 25075A7202
 
