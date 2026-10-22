@@ -85,13 +85,13 @@ The NetMystery application window should open.
 
 ## Network Troubleshooting Scenarios
 
-| No. | Scenario | Suggested Tool |
-|---|---|---|
+| No|       Scenario               |             Suggested Tool |
+|---|
 | 1 | Website Not Opening | `ping` |
-| 2 | Domain Name Not Resolving | `nslookup` |
-| 3 | Network Connection Failure | `ipconfig` |
-| 4 | Slow Network Connection | `ping` |
-| 5 | Incorrect Network Route | `tracert` |
+| 2 | Domain Name Not Resolving    |                 `nslookup` |
+| 3 | Network Connection Failure   |                 `ipconfig` |
+| 4 | Slow Network Connection      |                     `ping` |
+| 5 | Incorrect Network Route      |                  `tracert` |
 
 These tools demonstrate common troubleshooting concepts through sample output. The results are simulated and do not represent the actual network status of the computer.
 
